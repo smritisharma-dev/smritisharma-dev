@@ -7,8 +7,8 @@ I'm a passionate **Full Stack Developer** and **WordPress Developer** from India
 ### 💼 Tech Stack:
 - **Frontend:** React.js, HTML5, CSS3, Bootstrap, JavaScript
 - **Backend:** Node.js, Express.js, MongoDB
-- **CMS:** WordPress, WooCommerce, Elementor
-- **Tools:** Git, GitHub, REST APIs, Postman
+- **CMS:** WordPress, WooCommerce
+- **Tools:** Git, GitHub
 
 ---
 
